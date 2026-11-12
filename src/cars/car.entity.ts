@@ -9,4 +9,5 @@ export class Car {
   color: string;
   owner: User;
   active: boolean;
+  set: boolean;
 }
